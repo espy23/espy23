@@ -1,0 +1,12 @@
+title: Sabrina's Cybersecurity Portfolio
+email: sabrina.pattavina@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  I created this portfolio to detail my journey of continuous learning!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  espy23
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
